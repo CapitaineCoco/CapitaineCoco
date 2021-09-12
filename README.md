@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CapitaineCoco
+- 👀 I’m interested in programation and 3D effect
+- 🌱 I’m currently learning C++ and python
+- Right now i'm making a video game on the unity engine
